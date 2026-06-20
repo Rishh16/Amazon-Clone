@@ -1,18 +1,121 @@
-# Amazon-clone
-This is a simple Amazon-clone interface built using HTML and CSS.It replicates the look and feel of Amazon website with basic features.This project is frontend only(no backend integration).It is useful for learning web development fundamentals,practicing responsive design and implementing our skills with this kind of projects.
+# 🛒 Amazon Clone
 
-Amazon Clone Project is build using HTML and CSS, highlighting that it aims to replicate the core features and user experience of the original website.
+A responsive Amazon-inspired e-commerce website built using HTML, CSS, and JavaScript. This project recreates the look and feel of Amazon's homepage with a modern, responsive design for learning front-end web development.
 
-This Amazon clone have a similar layout and structure to the original Amazon website. It will consist of a header, main content section, and footer, only home Page is clone.
+> **Note:** This project is created for educational purposes only and is not affiliated with Amazon.
 
-In the header section, there is a navigation bar at the top of the page. It will include the Amazon logo on the left-hand side, followed by various navigation links such as "Search Bar", "home and returns", "language", "Cart", "sign in", "location".
+---
 
-The main content section is a central area of the webpage. It will display various products in a grid or list format including there images, names and see more options.
+## 🚀 Live Demo
 
-The footer section will contain links such as "About Us," "Contact Us," "Privacy Policy," and "Terms of Service."
+https://amazon-clone-brown-mu.vercel.app/
 
-The styling of this Amazon clone will be similar to the original website. It will use a combination of colors such as Amazon's signature orange, black, and white.
+---
 
-Provided all images required for this project. Create a folder and add html, css file and images on visual studio code.
+## 📸 Preview
+
+<img width="1886" height="833" alt="image" src="https://github.com/user-attachments/assets/e14021dd-0dbd-474f-90fe-7077807b47b5" />
 
 
+---
+
+## ✨ Features
+
+- Amazon-inspired responsive UI
+- Hero banner section
+- Product categories
+- Search bar
+- Navigation bar
+- Shopping cart icon
+- Footer with multiple sections
+- Responsive layout
+- Modern styling
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```
+Amazon-Clone/
+│
+├── images/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Rishh16/Amazon-Clone.git
+```
+
+Go to the project folder
+
+```bash
+cd Amazon-Clone
+```
+
+Open `index.html` in your browser.
+
+---
+
+## 🎯 Learning Objectives
+
+This project helped me learn:
+
+- Responsive Web Design
+- Flexbox & CSS Grid
+- Navigation Bar Design
+- Hero Sections
+- Product Card Layouts
+- CSS Styling
+- Basic JavaScript
+- Website Deployment using Vercel
+
+---
+
+## 🌐 Deployment
+
+The project is deployed using **Vercel**.
+
+---
+
+## 📌 Future Enhancements
+
+- User Authentication
+- Product Search Functionality
+- Shopping Cart
+- Wishlist
+- Checkout Page
+- Payment Integration
+- Backend Integration
+- Product Filtering
+
+---
+
+## 👩‍💻 Author
+
+**Rishika Nakirtha**
+
+GitHub: https://github.com/Rishh16
+
+---
+
+## 📄 License
+
+This project is developed for educational and portfolio purposes only.
